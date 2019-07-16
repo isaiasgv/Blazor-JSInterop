@@ -9,6 +9,11 @@ Start by completing the Getting started instruction on the *[Blazor Getting Star
 Once you set up Blazor on your machine, clone the repo and open the solution in Visual Studio 2019 Preview. 
 Then run the Application in Debug mode and watch JavaScript Interop in action.
 
+**Application covers**
+
+- Call JavaScript function from .Net
+- Call JavaScript function from .Net with arguments and element reference
+- Call C# .Net method from JavaScript
 
 ## Contributing
 
